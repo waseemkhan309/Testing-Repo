@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>1st commit</h1>
+      <h1>2st commit</h1>
     </div>
   );
 }
